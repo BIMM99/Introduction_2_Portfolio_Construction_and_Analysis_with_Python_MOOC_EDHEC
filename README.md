@@ -1,2 +1,3 @@
-# Introduction_2_Portfolio_Construction_and_Analysis_with_Python_MOOC_EDHEC
-Introduction to Portfolio Construction and Analysis with Python (MOOC EDHEC)
+# Introduction to Portfolio Construction and Analysis with Python (MOOC EDHEC)
+
+This repo is made of the various jupyter notebooks and python scripts that I wrote following 
